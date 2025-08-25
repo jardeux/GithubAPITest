@@ -1,6 +1,7 @@
 # React GitHub Veri Çekme Projesi
 
 Bu proje, React kullanarak GitHub API üzerinden kullanıcı verilerini çekip görüntüleyen basit bir uygulamadır.
+Live : https://github-api-test-nine.vercel.app/
 
 ## Özellikler
 
